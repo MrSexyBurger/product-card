@@ -8,6 +8,7 @@ window.onload = function() {
     toggleActiveSections();
     relatedCarousel();
     similarCarousel();
+    gallery();
 };
 
 function includeScript (url) {
